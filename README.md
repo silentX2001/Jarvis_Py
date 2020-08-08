@@ -6,4 +6,4 @@ pip install pypiwin32
 pip install speechRecognition
 pip install wikipedia
 # Thanks For Using.
-You can use this source to build your as a template to build voice assistant.
+You can use this source to build voice assistant.
