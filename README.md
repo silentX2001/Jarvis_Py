@@ -6,4 +6,5 @@ pip install pypiwin32
 pip install speechRecognition
 pip install wikipedia
 # Thanks For Using.
-You can use this source to build voice assistant.
+#MAR #CIEM #MAKAUT
+I build this project as a part of my MAR activity.
